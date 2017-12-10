@@ -30,7 +30,7 @@ class Validator
             //assign next scanner input string to variable
             inputString = kSC.nextLine();
             if (inputString.isEmpty())
-            {/*do nothing*/}
+            {/*doNothing()*/}
             else
             {
                 //set boolean to true to exit loop
